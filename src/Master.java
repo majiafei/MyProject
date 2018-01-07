@@ -13,6 +13,8 @@ public class Master {
 		}
 		System.out.println(System.currentTimeMillis());
 		System.out.println("kkkkkk");
+		System.out.println("hello");
+		System.out.println("hello");
 	}
 
 }
