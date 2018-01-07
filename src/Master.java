@@ -14,6 +14,7 @@ public class Master {
 		System.out.println(System.currentTimeMillis());
 		System.out.println("kkkkkk");
 		System.out.println("hellogg");
-		System.out.println("hellogcf");
+		System.out.println("hellog");
+		System.out.println("hellogff");
 	}
 }
