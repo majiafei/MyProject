@@ -16,6 +16,6 @@ public class Master {
 		System.out.println("hello");
 		System.out.println("hello");
 		System.out.println("ppppppppppppp");
+		System.err.println("-----------");
 	}
-
 }
