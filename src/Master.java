@@ -12,6 +12,7 @@ public class Master {
 			vector.add(b);
 		}
 		System.out.println(System.currentTimeMillis());
+		System.out.println("kkkkkk");
 	}
 
 }
